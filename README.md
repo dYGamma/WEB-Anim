@@ -1,6 +1,7 @@
 ## Anixart (для PC)
 
 ### Кратко и по факту, чтобы не забыть:
+**Docker**
 
 - **Расположен на: http://127.0.0.1**
 - **Для запуска: `docker compose -f docker-compose.dev.yml up` или `docker compose -f docker-compose.dev.yml watch`**
